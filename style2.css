@@ -1,0 +1,60 @@
+html,body{
+height: 100%;
+margin: 0%;
+
+}
+#ustalan{
+    background-image: url("https://i.ytimg.com/vi/DyDTW8H7fQg/maxresdefault.jpg");
+    height: 30%;
+    width: 80%;
+    background-repeat: round;
+margin: auto;
+}
+#kat-1{
+    height: 100%;
+    width: 80%;
+    margin: auto;
+
+}
+#menu{
+width: 20%; 
+float: right;
+height: 100%; 
+
+}
+#içerikalanı{
+    width: 80%;
+    height: 100%;
+    background-color:floralwhite;
+
+}
+#altalan{
+    height: 10%;
+    background-color: aqua;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+
+}
+#altalan p{
+    line-height: 55px;
+}
+#içerikalanı img{
+    width: 80%;
+    position: relative;
+    margin: auto;
+    display: block;
+    padding: 10px;
+}
+#menu p{
+    background-color: aqua;
+}
+body{
+    background-image: url("https://img.pixers.pics/pho_wat(s3:700/FO/58/56/12/26/700_FO58561226_15182cc23efe58b561eccdb721ebb6e1.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/cikartmalar-tas-duvar-arka-plan.jpg.jpg");
+}
+#içerikalanı p{
+    position: relative;
+    margin: auto;
+    display: block;
+    
+}

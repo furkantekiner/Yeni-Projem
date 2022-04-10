@@ -1,0 +1,61 @@
+
+html,body{
+    height: 100%;
+    margin: 0%;
+    
+}
+body{
+    background-image: url("https://i.pinimg.com/550x/ae/84/f7/ae84f7387aacccd797da7ed0760b7a1c.jpg");
+}
+
+#ustAlan{
+    background-image: url("https://img.freepik.com/free-vector/international-day-yoga-concept-illustration_114360-5736.jpg?t=st=1649320318~exp=1649320918~hmac=1530f93294126b5add85adb42f30a3b8484eb3c7e7554621e26f9385f364c02e&w=900");
+    height: 30%;
+    width: 80%;
+    margin: auto;
+    background-repeat: round;
+}
+#kat-1{
+    height: 100%;
+    width: 80%;
+    margin: auto;
+}
+#menu{
+    width: 20%;
+    float: right;
+    height: 100%;
+}
+#içerikAlanı{
+    width: 80%;
+    height: 100%;
+    background-color: darkgoldenrod;
+}
+#altAlan{
+    height: 10%;
+    background-color: aqua;
+    width: 80%;
+    margin-top: 0%;
+    margin: auto;
+    text-align: center;
+}
+#altAlan p{
+    line-height: 55px;
+    
+    
+}
+#içerikAlanı img{
+    width: 50%;
+    margin: auto;
+    display: block;
+    padding: 10px;
+    
+}
+#içerikAlanı p{
+    width: 60%;
+    position: relative;
+    margin: auto;
+    display: flex;
+
+}
+
+     
